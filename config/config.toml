@@ -1,0 +1,9 @@
+[bootstrap.services.mise-history]
+builtin = "history-watch"
+[tools]
+bat = "latest"
+jq = "latest"
+nu = "latest"
+
+[dotfiles]
+"~/.config/mise/config.toml" = { mode = "track" }
