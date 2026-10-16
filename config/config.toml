@@ -3,6 +3,7 @@ builtin = "history-watch"
 [tools]
 bat = "latest"
 jq = "latest"
+neovim = "latest"
 nu = "latest"
 
 [dotfiles]
