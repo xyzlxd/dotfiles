@@ -8,3 +8,4 @@ nu = "latest"
 
 [dotfiles]
 "~/.config/mise/config.toml" = { mode = "track" }
+"~/.gitconfig" = { mode = "track" }
